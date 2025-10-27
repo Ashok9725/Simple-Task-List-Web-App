@@ -43,16 +43,6 @@ The main goal of this project is to understand and demonstrate the use of:
 
 ---
 
-## 📂 **Project Structure**
-
-Task-List-WebApp/
-│
-├── index.html # Main HTML structure
-├── style.css # Styling for the app
-├── script.js # JavaScript logic (loops and dynamic DOM updates)
-└── README.md # Project documentation
----
-
 ## 🖼️ **Preview**
 
 When you open `index.html` in your browser, you’ll see:
