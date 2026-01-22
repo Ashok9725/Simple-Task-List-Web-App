@@ -53,24 +53,6 @@ When you open `index.html` in your browser, you’ll see:
 
 ---
 
-## 💡 **Learning Outcome**
-
-By building this project, you’ll learn:
-- How to use **for** and **while** loops in real-world JavaScript applications.
-- How to manipulate the **DOM** dynamically.
-- How arrays store and update user input.
-- Basic UI styling and layout using CSS.
-
----
-
-## 🧠 **Future Enhancements**
-
-- Add **Delete** and **Clear All** task features.
-- Store tasks in **Local Storage** so they remain after page reload.
-- Add task completion checkboxes.
-
----
-
 ## 📜 **License**
 
 This project is open-source and available under the **MIT License**.
